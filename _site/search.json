@@ -4,21 +4,35 @@
     "href": "index.html",
     "title": "Sizhuo Tian",
     "section": "",
-    "text": "University of California, Los Angeles | Los Angeles, CA Senior in Statistics & Data Science | Sept 2023 - June 2025"
+    "text": "DOWNLOAD CV"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Sizhuo Tian",
-    "section": "",
-    "text": "University of California, Los Angeles | Los Angeles, CA Senior in Statistics & Data Science | Sept 2023 - June 2025"
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA Senior in Statistics & Data Science | Sept 2023 - June 2025"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html#project-1",
+    "href": "index.html#project-1",
     "title": "Sizhuo Tian",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "section": "Project 1",
+    "text": "Project 1\nDOWNLOAD Project 1"
+  },
+  {
+    "objectID": "index.html#project-2",
+    "href": "index.html#project-2",
+    "title": "Sizhuo Tian",
+    "section": "Project 2",
+    "text": "Project 2\nDOWNLOAD Project 2"
+  },
+  {
+    "objectID": "index.html#project-3",
+    "href": "index.html#project-3",
+    "title": "Sizhuo Tian",
+    "section": "Project 3",
+    "text": "Project 3\nDOWNLOAD Project 3"
   },
   {
     "objectID": "about.html",
@@ -26,12 +40,5 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#project",
-    "href": "index.html#project",
-    "title": "Sizhuo Tian",
-    "section": "Project",
-    "text": "Project"
   }
 ]

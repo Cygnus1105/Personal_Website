@@ -7,11 +7,31 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Cygnus1105
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/sizhuo-tian-07a686252/
+    - text: Email
+      url: "dailyknight831@gmail.com"
+    - text: CV
+      url: "SizhuoTian.pdf"
+toc: false
 ---
+
+DOWNLOAD [CV](/SizhuoTian.pdf)
 
 ## Education
 
 University of California, Los Angeles | Los Angeles, CA
 Senior in Statistics & Data Science | Sept 2023 - June 2025
 
-## Project  
+## Project 1
+
+DOWNLOAD [Project 1](/101a.pdf)
+
+## Project 2
+
+DOWNLOAD [Project 2](/101b.pdf)
+
+## Project 3
+
+DOWNLOAD [Project 3](/101C.pdf)
+
