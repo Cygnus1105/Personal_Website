@@ -2,9 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal_Website",
+    "title": "Sizhuo Tian",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 555\n\n[1] 556\n\n\n\nrunif(10)\n\n [1] 0.27690268 0.83840713 0.72888960 0.81839384 0.28414913 0.93506273\n [7] 0.35600340 0.04054347 0.33413802 0.16841512"
+    "text": "University of California, Los Angeles | Los Angeles, CA Senior in Statistics & Data Science | Sept 2023 - June 2025"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sizhuo Tian",
+    "section": "",
+    "text": "University of California, Los Angeles | Los Angeles, CA Senior in Statistics & Data Science | Sept 2023 - June 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sizhuo Tian",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   },
   {
     "objectID": "about.html",
@@ -12,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#project",
+    "href": "index.html#project",
+    "title": "Sizhuo Tian",
+    "section": "Project",
+    "text": "Project"
   }
 ]
