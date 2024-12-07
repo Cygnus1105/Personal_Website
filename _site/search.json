@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "DOWNLOAD Project 1"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "DOWNLOAD Project 1"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2\nDOWNLOAD Project 2"
+  },
+  {
+    "objectID": "projects.html#project-3",
+    "href": "projects.html#project-3",
+    "title": "Projects",
+    "section": "Project 3",
+    "text": "Project 3\nDOWNLOAD Project 3"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sizhuo Tian",
@@ -14,31 +42,10 @@
     "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA Senior in Statistics & Data Science | Sept 2023 - June 2025"
   },
   {
-    "objectID": "index.html#project-1",
-    "href": "index.html#project-1",
+    "objectID": "index.html#exprience",
+    "href": "index.html#exprience",
     "title": "Sizhuo Tian",
-    "section": "Project 1",
-    "text": "Project 1\nDOWNLOAD Project 1"
-  },
-  {
-    "objectID": "index.html#project-2",
-    "href": "index.html#project-2",
-    "title": "Sizhuo Tian",
-    "section": "Project 2",
-    "text": "Project 2\nDOWNLOAD Project 2"
-  },
-  {
-    "objectID": "index.html#project-3",
-    "href": "index.html#project-3",
-    "title": "Sizhuo Tian",
-    "section": "Project 3",
-    "text": "Project 3\nDOWNLOAD Project 3"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "section": "Exprience",
+    "text": "Exprience\n\nCoCo Fresh Tea and Juice – Cupertino, CA\nShop Manager April 2021 – June 2022 Optimized product offerings and personnel allocation based on forecast insights\n\n\nCITIC Securities – Cupertino, CA\nOctober 2022 – November 2022 Developed knowledge of low-risk investing, stocks, and the financial securities industry. Conducted statistical analyses of currency circulation, studying quantity, velocity, distribution, and composition."
   }
 ]
