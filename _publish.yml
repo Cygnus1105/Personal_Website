@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 0f4ea481-43e4-4483-909c-334ac0705444
+      url: https://poetic-pastelito-e9e5c1.netlify.app
